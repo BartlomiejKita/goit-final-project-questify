@@ -43,4 +43,4 @@ Backend Developers:
 - Mateusz Bachor
 - Rafał Zdunek
 
-- [Backend](https://github.com/BartlomiejKita/nodejs-questify-api)
+## [Backend](https://github.com/BartlomiejKita/nodejs-questify-api)
